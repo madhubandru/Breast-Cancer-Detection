@@ -1,6 +1,6 @@
 # Breast-Cancer-Detection
 
-### Dphi - data-sprint-31-breast-cancer-detection challenge
+### DPhi - data-sprint-31-breast-cancer-detection challenge
 
 ### Problem Statement
 Among many cancers, breast cancer is the second most common cause of death in women. Early detection and early treatment reduce breast cancer mortality. Mammography plays an important role in breast cancer screening because it can detect early breast masses or calcification regions.
